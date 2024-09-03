@@ -42498,6 +42498,12 @@
     "img_url": "https://cdn.jsdelivr.net/gh/ariadata/crypto-icons@main/64/flowmatic.png"
   },
   {
+    "name": "Polygan",
+    "symbol": "MATIC",
+    "slug": "matic",
+    "img_url": "https://cdn.jsdelivr.net/gh/ariadata/crypto-icons@main/64/matic2.png"
+  },
+  {
     "name": "IQ Global",
     "symbol": "IQT",
     "slug": "iq-global",
